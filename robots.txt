@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://boiz2men.com/sitemap.xml
