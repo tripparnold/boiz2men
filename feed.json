@@ -1,25 +1,14 @@
 {
     "version": "https://jsonfeed.org/version/1",
-    "title": "Boiz2Men",
+    "title": "Boiz II Men",
     "description": "",
     "home_page_url": "https://boiz2men.com",
     "feed_url": "https://boiz2men.com/feed.json",
     "user_comment": "",
+    "icon": "https://boiz2men.com/media/website/websitelogo.png",
     "author": {
         "name": "Tripp"
     },
     "items": [
-        {
-            "id": "https://boiz2men.com/boiz-ii-men-hall-of-fame.html",
-            "url": "https://boiz2men.com/boiz-ii-men-hall-of-fame.html",
-            "title": "Boiz II Men Hall of Fame",
-            "author": {
-                "name": "Tripp"
-            },
-            "tags": [
-            ],
-            "date_published": "2025-08-22T09:54:08-05:00",
-            "date_modified": "2025-08-22T09:54:08-05:00"
-        }
     ]
 }
